@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhordy Roldan Flores</h1>
+<h1 align="center">Hi 👋, I'm Jhordy Stefano Roldan Flores</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas del 8vo ciclo. Actualmente, buscando realizar sus practicas.</h3>
 
 <h3 align="left">Connect with me:</h3>
