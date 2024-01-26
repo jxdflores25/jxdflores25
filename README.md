@@ -3,7 +3,8 @@
 
 
 <details open> <summary><h2>📘 Practicas de Analisis de Datos</h2></summary>
-<a href="https://github.com/jxdflores25/boilerplate-sea-level-predictor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jxdflores25&repo=boilerplate-sea-level-predictor&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
+ <p align="left">
+   <a href="https://github.com/jxdflores25/boilerplate-sea-level-predictor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jxdflores25&repo=boilerplate-sea-level-predictor&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
   
 <a href="https://github.com/jxdflores25/boilerplate-page-view-time-series-visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jxdflores25&repo=boilerplate-page-view-time-series-visualizer&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
 
@@ -11,6 +12,8 @@
   
 <a href="https://github.com/jxdflores25/boilerplate-demographic-data-analyzer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jxdflores25&repo=boilerplate-demographic-data-analyzer&theme=react&bg_color=1F222E&title_color=4DB5FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Backend">
 </a>
+ </p>
+
 </details>
 
 <details open> <summary><h2>📘 Practica de SQL </h2></summary>
